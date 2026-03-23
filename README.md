@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-I am a **Junior Full Stack Developer** at **Deloitte Tax Technology** [cite: 33][cite_start], serving as the designated **Frontend Owner** for enterprise-scale applications[cite: 34]. [cite_start]I specialize in bridging the gap between robust backend systems and intuitive user interfaces[cite: 2, 3].<br><br>* 🔭 **Frontend Lead**: Currently driving UI architecture and component design using **Angular**[cite: 34].<br>* 🧠 **AI Enthusiast**: Passionate about **Machine Learning**, **Data Science**, and leveraging technologies like **Ollama**[cite: 3, 17, 64].<br>* 🎓 **Scholar**: Pursuing a Master's degree in **Information Systems** at ASE Bucharest[cite: 39].<br>* 👥 **Leader**: Experienced Team Lead, previously coordinating teams of up to **40 members** for visual projects[cite: 46, 49, 50].<br><br>---<br>
+I am a **Junior Full Stack Developer** at **Deloitte Tax Technology**, serving as the designated **Frontend Owner** for enterprise-scale applications. I specialize in bridging the gap between robust backend systems and intuitive user interfaces.<br><br>* 🔭 **Frontend Lead**: Currently driving UI architecture and component design using **Angular**.<br>* 🧠 **AI Enthusiast**: Passionate about **Machine Learning**, **Data Science**, and leveraging technologies like **Ollama**.<br>* 🎓 **Scholar**: Pursuing a Master's degree in **Information Systems** at ASE Bucharest.<br>* 👥 **Leader**: Experienced Team Lead, previously coordinating teams of up to **40 members** for visual projects.<br><br>---<br>
 
 
 ## 🌐 Socials:
