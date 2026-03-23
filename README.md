@@ -1,59 +1,20 @@
-# Vasile Tărcuță | Full Stack Developer
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0055ff&height=200&section=header&text=Building%20the%20Future&fontSize=50&animation=fadeIn" width="100%" />
 </p>
 
-## 🚀 About Me
-[cite_start]I am a **Junior Full Stack Developer** at **Deloitte Tax Technology** [cite: 33][cite_start], serving as the designated **Frontend Owner** for enterprise-scale applications[cite: 34]. [cite_start]I specialize in bridging the gap between robust backend systems and intuitive user interfaces[cite: 2, 3].
+# 💫 About Me:
+I am a **Junior Full Stack Developer** at **Deloitte Tax Technology** [cite: 33][cite_start], serving as the designated **Frontend Owner** for enterprise-scale applications[cite: 34]. [cite_start]I specialize in bridging the gap between robust backend systems and intuitive user interfaces[cite: 2, 3].<br><br>* 🔭 **Frontend Lead**: Currently driving UI architecture and component design using **Angular**[cite: 34].<br>* 🧠 **AI Enthusiast**: Passionate about **Machine Learning**, **Data Science**, and leveraging technologies like **Ollama**[cite: 3, 17, 64].<br>* 🎓 **Scholar**: Pursuing a Master's degree in **Information Systems** at ASE Bucharest[cite: 39].<br>* 👥 **Leader**: Experienced Team Lead, previously coordinating teams of up to **40 members** for visual projects[cite: 46, 49, 50].<br><br>---<br>
 
-* [cite_start]🔭 **Frontend Lead**: Currently driving UI architecture and component design using **Angular**[cite: 34].
-* [cite_start]🧠 **AI Enthusiast**: Passionate about **Machine Learning**, **Data Science**, and leveraging technologies like **Ollama**[cite: 3, 17, 64].
-* [cite_start]🎓 **Scholar**: Pursuing a Master's degree in **Information Systems** at ASE Bucharest[cite: 39].
-* [cite_start]👥 **Leader**: Experienced Team Lead, previously coordinating teams of up to **40 members** for visual projects[cite: 46, 49, 50].
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@vasi.tarcuta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vasile-t%C4%83rcu%C8%9B%C4%83-b3aaa222b/) 
 
-## 🛠️ Tech Universe
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vasiletarcuta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vasiletarcuta&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vasiletarcuta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,js,python,dotnet,mysql,postgres,git,html,css" />
-</p>
-
-### 🧰 Tools & Data
-* [cite_start]**Languages**: Java, Python, C#, JavaScript, SQL[cite: 13].
-* [cite_start]**Web/App**: Angular, React Native, React, Android SDK[cite: 15].
-* [cite_start]**Data Science**: Pandas, scikit-learn, SAS, Regression Models[cite: 17].
-
----
-
-## 📁 Featured Creations
-
-| Project | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| **Health+** | `React Native` `Spring Boot` | [cite_start]Mobile health card system with JWT & Stripe[cite: 70, 71, 74]. |
-| **Math Platform** | `Konva.js` `Framer Motion` | [cite_start]Interactive geometry platform with live property highlighting[cite: 75, 77]. |
-| **AI Expense Journal** | `Java` `OpenAI` | [cite_start]Finance tracker with smart AI-driven spending suggestions[cite: 79, 82]. |
-| **Sales Dashboard** | `Streamlit` `Pandas` | [cite_start]Real-time predictive analytics using regression models[cite: 83, 85]. |
-
----
-
-## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vasiletarcuta/vasiletarcuta/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vasiletarcuta/vasiletarcuta/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vasiletarcuta/vasiletarcuta/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 🎵 On My Radar
-<p align="left">
-  <a href="https://spotify.com">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?uid=ID_UL_TAU_SPOTIFY" alt="Spotify" width="350" />
-  </a>
-</p>
-
-## 📫 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/vasiletarcuta)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tarcutavasile09@gmail.com)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
